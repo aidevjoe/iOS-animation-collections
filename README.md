@@ -197,6 +197,12 @@
 
 ![image](https://github.com/terminatorover/RGCardViewLayout/raw/master/demo.gif)
 
+-
+
+[CardAnimation](https://github.com/seedante/CardAnimation) - 一个非常炫酷的 iOS 卡片动效
+
+![image](https://camo.githubusercontent.com/6036f276ae5018ae37a71fd16575fee8dbf449de/68747470733a2f2f6431337961637572716a676172612e636c6f756466726f6e742e6e65742f75736572732f33323339392f73637265656e73686f74732f313236353438372f6174746163686d656e74732f3137333534352f7365637265742d70726f6a6563742d616e696d6174696f6e5f32782e676966)
+
 
 -
 
@@ -293,6 +299,22 @@
 
 ![image](https://github.com/MartinRGB/Replace-iOS/raw/master/1.gif?raw=true)
 
+-
+
+[RainyRefreshControl](https://github.com/Onix-Systems/RainyRefreshControl) - 简单的刷新控制
+
+![image](https://github.com/Onix-Systems/RainyRefreshControl/raw/develop/gif/umbrella_refresh.gif)
+-
+
+[mntpulltoreact](https://github.com/mentionapp/mntpulltoreact) - 下拉的基础上然后滑动选择
+
+![image](https://raw.githubusercontent.com/mentionapp/mntpulltoreact/master/README/mention-example.gif)
+
+-
+
+[DGElasticPullToRefresh](https://github.com/gontovnik/DGElasticPullToRefresh) - 弹性下拉刷新控件
+
+![image](https://raw.githubusercontent.com/gontovnik/DGElasticPullToRefresh/master/DGElasticPullToRefreshPreview2.gif)
 
 -
 
@@ -853,3 +875,61 @@
 [TGLStackedViewController](https://github.com/gleue/TGLStackedViewController) - 实现卡片布局的视图效果,可以拖拉出某个卡片视图变成全屏视图
 
 ![image](https://camo.githubusercontent.com/8270cb08b7319e07298cf18126b518e6936f5115/68747470733a2f2f7261772e6769746875622e636f6d2f676c6575652f54474c537461636b656456696577436f6e74726f6c6c65722f6d61737465722f53637265656e73686f74732f54474c537461636b6564566965774578616d706c652e676966)
+
+-
+
+
+[CreditCardForm-iOS](https://github.com/orazz/CreditCardForm-iOS) - 信用卡输入效果,允许开发人员创建复制实际信用卡的UI
+
+![image](https://camo.githubusercontent.com/e30bcc0537ff4aa4adae4f39ad664aeb2fd7db76/68747470733a2f2f646f746a70672e636f2f3862752e706e67)![image](https://github.com/orazz/CreditCardForm-iOS/raw/master/Example/Screens/CreditCardDemo.gif)
+
+-
+
+
+
+[BouncyPageViewController](https://github.com/BohdanOrlov/BouncyPageViewController) - 具有跳动效果的页面视图控制器
+
+![image](https://github.com/BohdanOrlov/BouncyPageViewController/raw/master/GIFs/bouncyDemo.gif)
+
+-
+
+
+[fave-button](https://github.com/xhamr/fave-button) - 一个点赞、喜欢的点击动画
+
+![image](https://github.com/xhamr/fave-button/raw/master/fave-button1.gif)
+
+-
+
+
+
+[TTGPuzzleVerify](https://github.com/zekunyan/TTGPuzzleVerify) -  体验友好的拼图验证控件
+
+![image](https://github.com/zekunyan/TTGPuzzleVerify/raw/master/Resources/TTGPuzzleVerify.gif)
+
+-
+
+
+
+[DOPDropDownMenu-Enhanced](https://github.com/12207480/DOPDropDownMenu-Enhanced) - 可以自定义的下拉菜单功能
+
+![image](https://raw.githubusercontent.com/12207480/DOPDropDownMenu-Enhanced/master/screenshot/dopmendemo.gif)
+
+-
+
+
+[AlertOnboarding](https://github.com/PhilippeBoisney/AlertOnboarding) - 一个简单而有吸引力的AlertView
+
+![image](https://raw.githubusercontent.com/PhilippeBoisney/AlertOnboarding/master/demo.gif)
+
+-
+
+
+[DGRunkeeperSwitch](https://github.com/gontovnik/DGRunkeeperSwitch) - 很漂亮的带有动画的 segment 控件
+
+![image](https://raw.githubusercontent.com/gontovnik/DGRunkeeperSwitch/master/DGRunkeeperSwitch.gif)
+
+-
+
+[DGActivityIndicatorView](https://github.com/gontovnik/DGActivityIndicatorView) - 一款优雅的加载指示器
+
+![image](https://raw.githubusercontent.com/gontovnik/DGActivityIndicatorView/master/DGActivityIndicatorView.gif)

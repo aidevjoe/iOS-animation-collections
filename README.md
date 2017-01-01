@@ -1,10 +1,14 @@
 # iOS-animation-collections
 
+
+
 * 个人收集的iOS动画开源库集合, 以便需要的时候快速查找
 * 此项目会不断更新, 如果你发现有好的动画库可以通过 [issue](https://github.com/Joe0708/iOS-animation-collections/issues/new) 告知我
 * 目前没有对库进行分类, 有时间会进行整理, 以便查阅.
 
+
 ----
+
 
 [NYTubeAnimation](https://github.com/lfny2580832/NYTubeAnimation) - 页面切换指示动画 
 
@@ -289,6 +293,13 @@
 
 ![image](https://github.com/MartinRGB/Replace-iOS/raw/master/1.gif?raw=true)
 
+
+-
+
+[CBStoreHouseRefreshControl](https://github.com/coolbeet/CBStoreHouseRefreshControl) - 完全可自定义下拉刷新iOS控件
+
+![image](https://camo.githubusercontent.com/556662451b6de3d5c56a471ee5931ab8caf2c5e3/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f737579752e746573742f434253746f7265486f75736552656672657368436f6e74726f6c312e676966)![image](https://camo.githubusercontent.com/a0ff4643665482e588bbf9f951069251604dd118/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f737579752e746573742f434253746f7265486f75736552656672657368436f6e74726f6c322e676966)
+
 -
 
 
@@ -391,6 +402,20 @@
 
 ![image](https://github.com/Yalantis/Segmentio/raw/master/Assets/animation.gif)
 
+
+-
+
+[TwicketSegmentedControl](https://github.com/twicketapp/TwicketSegmentedControl) - 一个酷酷的带有弹性的分段选择控件
+
+![image](https://cloud.githubusercontent.com/assets/7887319/18714404/e77e7588-8015-11e6-939b-25f187a8b4d0.gif)
+
+-
+
+
+[PinterestSegment](https://github.com/TBXark/PinterestSegment) - 一个仿 Pinterest 的 Segment动画
+
+![image](https://github.com/TBXark/PinterestSegment/raw/master/demo.gif)
+
 -
 
 
@@ -482,6 +507,12 @@
 
 ![image](https://cloud.githubusercontent.com/assets/4316898/4098401/7cc3710e-301b-11e4-83ba-529349111c4d.gif)
 
+
+-
+
+[YLLongTapShare](https://github.com/liyong03/YLLongTapShare) - 长按分享菜单组件
+
+![image](https://github.com/liyong03/YLLongTapShare/raw/master/joy.gif)
 
 -
 
@@ -678,3 +709,147 @@
 [LMPullToBounce-OC版](https://github.com/luckymore0520/LMPullToBounce) [PullToBounce-Swift版](https://github.com/entotsu/PullToBounce) - 带动画的下拉刷新框架
 
 ![image](https://raw.githubusercontent.com/entotsu/PullToBounce/master/demo.gif)
+
+-
+
+
+[PinterestSegment](https://github.com/TBXark/PinterestSegment) - 一个仿 Pinterest 的 Segment动画
+
+![image](https://github.com/TBXark/PinterestSegment/raw/master/demo.gif)
+
+-
+
+[TKRubberIndicator](https://github.com/TBXark/TKRubberIndicator) - 一个橡皮动画页面控件
+
+![image](https://github.com/TBXark/TKRubberIndicator/raw/master/example.gif)
+
+-
+
+
+
+[TKSwitcherCollection](https://github.com/TBXark/TKSwitcherCollection) - 开关切换动画效果集合组件
+
+![image](https://github.com/TBXark/TKSwitcherCollection/raw/master/Example/exchange.gif)
+
+![image](https://github.com/TBXark/TKSwitcherCollection/raw/master/Example/smile.gif)
+
+![image](https://github.com/TBXark/TKSwitcherCollection/raw/master/Example/liquid.gif)
+
+
+-
+
+
+[paper-switch](https://github.com/Ramotion/paper-switch) - 非常棒的开关控件, 可实现平滑渲染过渡到父视图的效果
+
+![image](https://raw.githubusercontent.com/Ramotion/paper-switch/master/screenshot.gif)
+
+-
+
+
+
+[navigation-stack](https://github.com/Ramotion/navigation-stack) - 实现了堆栈式的界面浏览效果，可用于制作产品展示。
+
+![image](https://raw.githubusercontent.com/Ramotion/navigation-stack/master/Navigation-Stack.gif)
+
+
+-
+
+
+
+[circle-menu](https://github.com/Ramotion/circle-menu) - 一个简洁，优雅的圆形布局菜单
+
+![image](https://github.com/Ramotion/circle-menu/raw/master/preview.gif)
+
+- 
+
+
+
+[preview-transition](https://github.com/Ramotion/preview-transition) - 一个简单的预览画廊过渡动画
+
+![image](https://raw.githubusercontent.com/Ramotion/preview-transition/master/preview.gif)
+
+-
+
+
+[expanding-collection](https://github.com/Ramotion/expanding-collection) - 一个卡片 peek/pop 控制器
+
+![image](https://raw.githubusercontent.com/Ramotion/expanding-collection/master/preview.gif)
+
+-
+
+
+[reel-search](https://github.com/Ramotion/reel-search) - RAMReel是一个控制器，它允许您从列表中选择选项
+
+![image](https://raw.githubusercontent.com/Ramotion/reel-search/master/reel-search.gif)
+
+-
+
+
+[paper-onboarding](https://github.com/Ramotion/paper-onboarding) - 很棒的 material design 滑块动画
+
+![image](https://raw.githubusercontent.com/Ramotion/paper-onboarding/master/preview.gif)
+
+-
+
+
+[CSStickyHeaderFlowLayout](https://github.com/CSStickyHeaderFlowLayout/CSStickyHeaderFlowLayout) - 实现图片的滚动视差和可伸缩设计
+
+![image](https://camo.githubusercontent.com/3aab9bc8e28dcde1a0fcd92eeac9d5ccf2507368/687474703a2f2f662e636c2e6c792f6974656d732f30353133307332723058316a3178314e3051336e2f73706f746966792d34382d31362d68616c662e676966)![image](https://camo.githubusercontent.com/6b3e2209c0d3634fdd1fccbc8adc1a9276be9e80/687474703a2f2f662e636c2e6c792f6974656d732f3371327533353031336f30793047326f335831762f63617273686172652d33322d31362d68616c662e676966)![image](https://camo.githubusercontent.com/b2007090c92bcff212a5df6d04770aec52e75320/687474703a2f2f662e636c2e6c792f6974656d732f336c3046314633593073314d31463361327230642f726970706c652e676966)
+
+-
+
+
+[PQFCustomLoaders](https://github.com/poolqf/PQFCustomLoaders) - 有趣的载入视图。可以设置背景,颜色,还有标题是否显示等等
+
+![image](https://github.com/poolqf/PQFCustomLoaders/raw/master/Images/bouncing.gif)![image](https://github.com/poolqf/PQFCustomLoaders/raw/master/Images/bars.gif)
+![image](https://github.com/poolqf/PQFCustomLoaders/raw/master/Images/circles.gif)![image](https://github.com/poolqf/PQFCustomLoaders/raw/master/Images/drop.gif)
+
+-
+
+
+[FillableLoaders](https://github.com/poolqf/FillableLoaders) - 基于 CGPaths 可定制个性化填空式装载类库
+
+![image](https://github.com/poolqf/FillableLoaders/raw/master/Images/waves.gif)![image](https://github.com/poolqf/FillableLoaders/raw/master/Images/plain.gif)
+![image](https://github.com/poolqf/FillableLoaders/raw/master/Images/spike.gif)![image](https://github.com/poolqf/FillableLoaders/raw/master/Images/progress.gif)
+
+
+-
+
+
+
+[MGSpotyViewController](https://github.com/matteogobbi/MGSpotyViewController) - 一个漂亮的列表视图控件,具有类似Spotify中的炫酷特效,下拉可放大显示用户头像
+
+![image](https://camo.githubusercontent.com/20ccae14b0cfbee5bcd3867df4e2c5c51909d989/687474703a2f2f7777772e6d617474656f676f6262692e69742f66696c65732d686f7374696e672f4d4753706f747956696577566964656f2d736d616c6c65722e676966)![image](https://github.com/matteogobbi/MGSpotyViewController/raw/master/GIFs%20and%20Videos/example2.gif)
+
+-
+
+
+
+[HAPaperViewController](https://github.com/hebertialmeida/HAPaperViewController) - 是个有着布局转换功能的 UICollectionView
+
+![image](https://camo.githubusercontent.com/bb53c194f85dcd000400ef7a84b6b48699e4e4b0/68747470733a2f2f7261772e6769746875622e636f6d2f68656265727469616c6d656964612f4841506170657256696577436f6e74726f6c6c65722f6d61737465722f50617065722f496d616765732e78636173736574732f70617065722e676966)
+
+-
+
+[MGFashionMenuView](https://github.com/matteogobbi/MGFashionMenuView) - 提供视图展示/隐藏时非常酷的动画效果。
+
+![image](https://camo.githubusercontent.com/4d1b2931eef09156a38dad6ac86cbce8b0ec2143/687474703a2f2f7777772e6d617474656f676f6262692e69742f66696c65732d686f7374696e672f566964656f5f4d4746617368696f6e4d656e75566965772e676966)
+
+-
+
+[VPRubberMenu](https://github.com/vitalykw/VPRubberMenu) - 具有 rubbery 效果的菜单组件
+
+![image](https://github.com/vitalykw/VPRubberMenu/raw/master/doc/img/VPRubber.gif)
+
+
+-
+
+[folding-cell](https://github.com/Ramotion/folding-cell) - 清新的单元格折叠动画
+
+![image](https://raw.githubusercontent.com/Ramotion/folding-cell/master/Screenshots/folding-cell.gif)
+
+-
+
+[TGLStackedViewController](https://github.com/gleue/TGLStackedViewController) - 实现卡片布局的视图效果,可以拖拉出某个卡片视图变成全屏视图
+
+![image](https://camo.githubusercontent.com/8270cb08b7319e07298cf18126b518e6936f5115/68747470733a2f2f7261772e6769746875622e636f6d2f676c6575652f54474c537461636b656456696577436f6e74726f6c6c65722f6d61737465722f53637265656e73686f74732f54474c537461636b6564566965774578616d706c652e676966)

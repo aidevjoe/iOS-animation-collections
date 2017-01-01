@@ -1,17 +1,16 @@
 # iOS-animation-collections
-A very good collection of open source iOS animation libraries - 一个非常棒的iOS动画开源库集合
 
 * 个人收集的iOS动画开源库集合, 以便需要的时候快速查找
-* 此项目会不断更新, 如果你发现有好的动画库可以通过 *issue* 告知我
+* 此项目会不断更新, 如果你发现有好的动画库可以通过 [issue](https://github.com/Joe0708/iOS-animation-collections/issues/new) 告知我
 * 目前没有对库进行分类, 有时间会进行整理, 以便查阅.
 
 
-[NYTubeAnimation](https://github.com/lfny2580832/NYTubeAnimation) : 页面切换指示动画 
+[NYTubeAnimation](https://github.com/lfny2580832/NYTubeAnimation) - 页面切换指示动画 
 
 ![image](https://github.com/lfny2580832/NYTubeAnimation/raw/master/demo.gif)
 
 
-[Animations-OC版](https://github.com/YouXianMing/Animations) [Animations-Swift版](https://github.com/YouXianMing/Swift-Animations) : 非常棒的动画集合 
+[Animations-OC版](https://github.com/YouXianMing/Animations) [Animations-Swift版](https://github.com/YouXianMing/Swift-Animations) - 非常棒的动画集合 
 
 ![image](https://camo.githubusercontent.com/d9a32d8dfa29de2847aaf5c12d6cc07a1d93b20e/687474703a2f2f696d616765732e636e6974626c6f672e636f6d2f626c6f67323031352f3630373534322f3230313530342f3231313630383033373334373738332e676966)
 
@@ -20,7 +19,7 @@ A very good collection of open source iOS animation libraries - 一个非常棒�
 ![image](https://camo.githubusercontent.com/6482e2759a1df7dcff57292c843988108a32551b/687474703a2f2f696d61676573323031352e636e626c6f67732e636f6d2f626c6f672f3630373534322f3230313531312f3630373534322d32303135313132373131303734313435322d3734303138363634342e676966)
 
 
-[RNFrostedSidebar](https://github.com/rnystrom/RNFrostedSidebar) : 很棒的弹出侧边菜单。菜单的弹出动画、按钮的点击动画,适合用于导航和当前界面的相关设置
+[RNFrostedSidebar](https://github.com/rnystrom/RNFrostedSidebar) - 很棒的弹出侧边菜单。菜单的弹出动画、按钮的点击动画,适合用于导航和当前界面的相关设置
 
 ![image](https://camo.githubusercontent.com/e5c2434a915611e75b6f74fc3ca398b65d955c7e/68747470733a2f2f7261772e6769746875622e636f6d2f726e797374726f6d2f524e46726f737465644d656e752f6d61737465722f696d616765732f6f70656e2e676966)
 
@@ -262,7 +261,7 @@ A very good collection of open source iOS animation libraries - 一个非常棒�
 ![image](https://github.com/Yalantis/ForceBlur/raw/master/Resources/preview.gif)
 
 
-[animated-tab-bar](https://github.com/Ramotion/animated-tab-bar) : TabBar切换动画 
+[animated-tab-bar](https://github.com/Ramotion/animated-tab-bar) - TabBar切换动画 
 
 ![image](https://raw.githubusercontent.com/Ramotion/animated-tab-bar/master/Screenshots/tab-bar-icons-iphone-ramotion-animation-interface-design.gif)
 
